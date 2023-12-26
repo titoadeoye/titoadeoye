@@ -1,6 +1,8 @@
 ## Hello there👋 I'm Tito
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ty-codes&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ty-codes&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
