@@ -1,5 +1,21 @@
-### Hello there👋  
-I'm Tito. I'm a Software Engineer.
+<div id='header' align='center'>
+  ### Hello there👋  
+  I'm Tito. I'm a Software Engineer.
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/bolatito-adeoye/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://titoadeoye.hashnode.dev/">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Hashnode Badge"/>
+    </a>
+    <a href="https://twitter.com/titoadeoye">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=ty-codes&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 ***
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ty-codes&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ty-codes&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
