@@ -1,5 +1,5 @@
 <div id='header' align='center'>
-  <h4>Hello there👋 </h4>  
+  <h2>Hello there👋 </h2>  
   <p>I'm Tito. I'm a Software Engineer.</p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/bolatito-adeoye/">
