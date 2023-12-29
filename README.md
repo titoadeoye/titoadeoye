@@ -31,7 +31,7 @@
 
 - :zap: In my spare time, I enjoy writing and reading technical articles, as well as diving into books.
 
-- :fire: I'm obsessed with consistent growth and building products with impact:bomb:
+- :fire: I'm obsessed with consistent growth and building products with impact💥
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bolatito-adeoye/)
 
