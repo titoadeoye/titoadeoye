@@ -27,7 +27,7 @@
 ### :woman_technologist: About Me :
 - :telescope: I’m a Software Engineer building scalable and user-focused products for the web. 
 
-- :seedling: Exploring the Cloud.
+- :seedling: Exploring the Blockchain and the Cloud.
 
 - :zap: In my spare time, I enjoy writing and reading technical articles, as well as diving into books.
 
