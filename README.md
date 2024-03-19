@@ -12,15 +12,15 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ty-codes&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=titoadeoye&style=flat-square&color=blue" alt=""/>
 </div>
 
 
 ***
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ty-codes&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ty-codes&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
-![](https://github.com/ty-codes/github-stats/blob/master/generated/languages.svg)
-![](https://github.com/ty-codes/github-stats/blob/master/generated/overview.svg)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=titoadeoye&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titoadeoye&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
+![](https://github.com/titoadeoye/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/titoadeoye/github-stats/blob/master/generated/overview.svg)
 
 ***
 
