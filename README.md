@@ -15,6 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=titoadeoye&style=flat-square&color=blue" alt=""/>
 </div>
 
+<br >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titoadeoye" alt="titoadeoye" /></a> </p>
 
 ***
@@ -22,7 +23,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titoadeoye&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=titoadeoye&show_icons=true&locale=en&layout=compact" alt="titoadeoye" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=titoadeoye&show_icons=true&locale=en" alt="titoadeoye" /></p>
+<!-- stats -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=titoadeoye&show_icons=true&locale=en" alt="titoadeoye" /></p> -->
 
 ***
 
