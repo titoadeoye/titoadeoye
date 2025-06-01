@@ -2,11 +2,11 @@
   <h2>Hello there👋 </h2>  
   <p>I'm Tito. I'm a Software Engineer.</p>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/bolatito-adeoye/">
+    <a href="https://www.linkedin.com/in/tito-adeoye/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://titoadeoye.hashnode.dev/">
-      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+    <a href="https://medium.com/@titoadeoye">
+      <img src="https://img.shields.io/badge/Medium-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Medium Badge"/>
     </a>
     <a href="https://twitter.com/titoadeoye">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -27,13 +27,13 @@
 ### :woman_technologist: About Me :
 - :telescope: I’m a Software Engineer building scalable and user-focused products for the web. 
 
-- :seedling: Exploring Web 3.0 and the Cloud.
+- :seedling: Exploring the Cloud.
 
-- :zap: In my spare time, I enjoy writing and reading technical articles, as well as diving into books.
+- :zap: In my spare time, I enjoy writing and reading technical articles and books.
 
 - :fire: I'm obsessed with consistent growth and building products with impact💥
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bolatito-adeoye/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tito-adeoye/)
 
 
 
@@ -48,6 +48,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title='SocketIO' **alt='Jira' width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytho/python-original.svg" title='Python' **alt='Python' width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/djangorest-line.svg" title='DRF' **alt='DRF' width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
