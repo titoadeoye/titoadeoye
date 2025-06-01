@@ -19,25 +19,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titoadeoye" alt="titoadeoye" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@titoadeoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@titoadeoye" height="30" width="40" /></a>
-</p>
-
 ***
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=titoadeoye&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titoadeoye&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
-![](https://github.com/titoadeoye/github-stats/blob/master/generated/languages.svg)
-![](https://github.com/titoadeoye/github-stats/blob/master/generated/overview.svg)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=titoadeoye&show_icons=true&locale=en&layout=compact" alt="titoadeoye" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=titoadeoye&show_icons=true&locale=en" alt="titoadeoye" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=titoadeoye&" alt="titoadeoye" /></p>
 
 ***
 
