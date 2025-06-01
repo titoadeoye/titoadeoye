@@ -21,11 +21,11 @@
 ***
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=titoadeoye&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titoadeoye&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=titoadeoye&show_icons=true&locale=en&layout=compact" alt="titoadeoye" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=titoadeoye&show_icons=true&locale=en&layout=compact" alt="titoadeoye" /></p> -->
 
 <!-- stats -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=titoadeoye&show_icons=true&locale=en" alt="titoadeoye" /></p> -->
-<br > <br >
+
 ***
 
 ### :woman_technologist: About Me :
