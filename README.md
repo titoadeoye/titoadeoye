@@ -15,8 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=titoadeoye&style=flat-square&color=blue" alt=""/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=titoadeoye&label=Profile%20views&color=0e75b6&style=flat" alt="titoadeoye" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titoadeoye" alt="titoadeoye" /></a> </p>
 
 ***
