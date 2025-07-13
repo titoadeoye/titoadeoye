@@ -16,10 +16,10 @@
 </div>
 
 <br >
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titoadeoye" alt="titoadeoye" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titoadeoye" alt="titoadeoye" /></a> </p> -->
 
 ***
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=titoadeoye&theme=gruvbox&hide_border=true)](https://git.io/streak-stats) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=titoadeoye&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titoadeoye&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=titoadeoye&show_icons=true&locale=en&layout=compact" alt="titoadeoye" /></p> -->
 
