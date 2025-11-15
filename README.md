@@ -8,9 +8,6 @@
     <a href="https://medium.com/@titoadeoye">
       <img src="https://img.shields.io/badge/Medium-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Medium Badge"/>
     </a>
-    <a href="https://twitter.com/titoadeoye">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=titoadeoye&style=flat-square&color=blue" alt=""/>
 </div>
