@@ -26,9 +26,9 @@
 ***
 
 ### :woman_technologist: About Me :
-- :telescope: I’m a Software Engineer building scalable and user-focused products for the web. 
+- :telescope: I’m a Software Engineer building scalable and user-focused products for the web/mobile. 
 
-- :seedling: Exploring the Cloud.
+- :seedling: Exploring Data Engineering.
 
 - :zap: In my spare time, I enjoy writing and reading technical articles and books.
 
